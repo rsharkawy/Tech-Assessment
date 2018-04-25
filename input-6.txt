@@ -1,0 +1,4 @@
+affiliate
+apple 2
+pan 4
+soap 0

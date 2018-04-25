@@ -1,0 +1,5 @@
+employee
+apple 2
+pan 1
+soap 5
+butter 6

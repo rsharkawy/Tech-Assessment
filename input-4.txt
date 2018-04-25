@@ -1,0 +1,4 @@
+NA
+apple 2
+pan 10
+soap 25
